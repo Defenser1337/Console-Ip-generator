@@ -1,0 +1,7 @@
+C:\Users\Ivan\Documents\My projects\c#prjcts\Games\fun\IP generator\IP generator\bin\Debug\IP generator.exe.config
+C:\Users\Ivan\Documents\My projects\c#prjcts\Games\fun\IP generator\IP generator\bin\Debug\IP generator.exe
+C:\Users\Ivan\Documents\My projects\c#prjcts\Games\fun\IP generator\IP generator\bin\Debug\IP generator.pdb
+C:\Users\Ivan\Documents\My projects\c#prjcts\Games\fun\IP generator\IP generator\obj\Debug\IP generator.csprojAssemblyReference.cache
+C:\Users\Ivan\Documents\My projects\c#prjcts\Games\fun\IP generator\IP generator\obj\Debug\IP generator.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Documents\My projects\c#prjcts\Games\fun\IP generator\IP generator\obj\Debug\IP generator.exe
+C:\Users\Ivan\Documents\My projects\c#prjcts\Games\fun\IP generator\IP generator\obj\Debug\IP generator.pdb
